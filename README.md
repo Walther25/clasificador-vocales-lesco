@@ -92,6 +92,7 @@ Los detalles completos (cómo se recolectaron, condiciones, limitaciones) están
 │   └── C31037_Walther_Barrantes.keras   # El modelo entrenado
 ├── reports/
 │   ├── graficos/            # Curvas de entrenamiento y matrices de confusión
+│   ├── informe_final_Walther_Barrantes.pdf  # Informe final del proyecto
 │   └── resultados/          # Salida completa del entrenamiento (métricas)
 ├── src/
 │   ├── notebook/            # Versión para Google Colab (.ipynb)
